@@ -1,0 +1,57 @@
+.vi-row{width:100%;display: table;margin-bottom:5px;}
+.vi-layout .vi-row{margin-bottom:0;}
+.vi-row div:nth-child(2n-1){height: 5em;line-height: 5em;}
+.vi-row div:nth-child(2n){height: 5em;line-height: 5em;}
+.vif-none{float:none!important;}
+.vif-left{float:left!important;}
+.vif-right{float:right!important;}
+.vid-none{display: none!important;}
+.vid-block{display: block!important;}
+.vi-primary{background: #2B85E4;}
+.vi-info{background: #2D8CF0;}
+.vi-success{background: #19BE6B;}
+.vi-warning{background: #FF9900;}
+.vi-error{background: #ED3F14;}
+.vi-title{background: #1C2438;}
+.vi-content{background: #495060;}
+.vi-btn{cursor: pointer;}
+.vi-primary,.vi-info,.vi-success,.vi-warning,.vi-error,.vi-title,.vi-content{color:#ffffff;}
+.vic-primary{color: #2B85E4;}
+.vic-info{color: #2D8CF0;}
+.vic-success{color: #19BE6B;}
+.vic-warning{color: #FF9900;}
+.vic-error{color: #ED3F14;}
+.vic-title{color: #1C2438;}
+.vic-content{color: #495060;}
+@media (max-width:768px){}
+@media (min-width:768px){
+    .vi-col-1,.vi-col-2,.vi-col-3,.vi-col-4,.vi-col-5,.vi-col-6,.vi-col-7,.vi-col-8,.vi-col-9,.vi-col-10,.vi-col-11,.vi-col-12,.vi-col-13,.vi-col-14,.vi-col-15,.vi-col-16,.vi-col-17,.vi-col-18,.vi-col-19,.vi-col-20,.vi-col-21,.vi-col-22,.vi-col-23,.vi-col-24{float:left;}
+    .vi-col-1{width: 4.16%;}
+    .vi-col-2{width: 8.33%;}
+    .vi-col-3{width: 12.5%;}
+    .vi-col-4{width: 16.66%;}
+    .vi-col-5{width: 20.83%;}
+    .vi-col-6{width: 25%;}
+    .vi-col-7{width: 29.16%;}
+    .vi-col-8{width: 33.33%;}
+    .vi-col-9{width: 37.50%;}
+    .vi-col-10{width: 41.67%;}
+    .vi-col-11{width: 45.83%;}
+    .vi-col-12{width: 50%;}
+    .vi-col-13{width: 54.17%;}
+    .vi-col-14{width: 58.33%;}
+    .vi-col-15{width: 62.50%;}
+    .vi-col-16{width: 66.67%;}
+    .vi-col-17{width: 70.83%;}
+    .vi-col-18{width: 75.00%;}
+    .vi-col-19{width: 79.17%;}
+    .vi-col-20{width: 83.33%;}
+    .vi-col-21{width: 87.50%;}
+    .vi-col-22{width: 91.67%;}
+    .vi-col-23{width: 95.83%;}
+    .vi-col-24{width: 100%;}
+}
+@media (min-width:992px){
+    
+}
+@media (min-width:1200px){}
